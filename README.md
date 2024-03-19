@@ -1,4 +1,13 @@
-# JS-Sum-game
+# Easy Sum Game Project
 
-![image](https://github.com/Anzori-PR/JS-Sum-game/assets/113595336/b4ad7da0-05bb-4443-bd70-627b20ce8a0b)
+Welcome to the Easy Sum Game project repository! This project aims to create a simple game where users can practice addition by solving easy sums between two numbers.
 
+# About the Project
+
+This project is a small web-based game developed using HTML, CSS, and JavaScript. The main objective is to provide users with an interactive platform to practice addition in a fun and engaging way.
+
+# Technologies Used
+
+    HTML
+    CSS
+    JavaScript
